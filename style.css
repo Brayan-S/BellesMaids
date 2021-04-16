@@ -34,25 +34,37 @@ nav {
   position: relative;
   text-align: center;
   font-size: 40px;
-  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-family: 'Cookie', cursive;
+  font-family: 'Oxygen', sans-serif;
   color: white;
 }
 h3 {
   position: relative;
   text-align: center;
   font-size: 40px;
+  color:rgb(153, 153, 255);
+}
+h2 {
+	position: relative;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 300px;
+	padding-right: 300px;
+	margin-top: 4px;
+	color:hsl(60, 20%, 60%);
 }
 #aboutus {
-  background-color:grey;
+  background-color:hsl(60, 18%, 85%);
   width: 100%;
   height: auto;
-  padding: 50px;
-  border: 1px solid red;
+  padding: 90px;
+  border: 1px solid black;
+  
 }
 
 #services {
   background-color: gray;
-  width: 100%;wray
+  width: 100%;
   height: auto;
   padding: 50px;
   border: 1px solid red;
@@ -72,8 +84,26 @@ h3 {
   }
   @media (max-width: 952px) {
 	h3 {
-	  font-size: 18px;
+	  font-size: 30px;
 	}
+	h3{
+		padding-bottom: 7px;
+	}
+  }
+  @media (max-width: 952px){
+     h2 {
+		 font-size: 14px;
+	 }
+	 h2{
+		padding-left: 0px;
+	 }
+	 h2{
+		padding-right: 0px;
+	 }
+	 h2{
+		 margin-top: 7px;
+	 }
+
   }
 
 label.logo {
