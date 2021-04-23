@@ -47,9 +47,9 @@
     <div id="services">
       <h3>Services</h3>
     </div>
-    <section>
-      <div class="contactUs">
-          <h2>Contact us</h2>
+    <section id="contactUs">
+      <div class="containerOne">
+          <h3>Contact us</h3>
         <form action="contactform.php" method="post">
           <div class="form-group">
             <label for="name">Full name</label>
