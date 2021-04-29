@@ -21,7 +21,7 @@
         <li><a href="#">Home</a></li>
         <li><a href="#aboutus">About Us</a></li>
         <li><a href="#services">Services</a></li>
-        <li><a href="#contactus">Contact Us</a></li>
+        <li><a href="#contactUs">Contact Us</a></li>
       </ul>
     </nav>
     <section>
@@ -44,11 +44,33 @@
         and insured. We do contract cleaning on the commercial part
       </h2>
     </div>
-    <div id="services">
-      <h3>Services</h3>
+    <div class="services" id="services">
+      <h3 class="title">Services</h3>
+      <div class="service1">
+        <div class="service-items">
+          <img src="images/residential cleanig.jpg" alt="residential-service">
+          <h3>Residential Service</h3>
+        </div>
+          <div class="service-items">
+            <img src="images/NicePng_cleaning-services-png_2243656.png" alt="residential-service" >
+            <h3>commercial Service</h3>
+          </div>
+            <div class="service-items">
+              <img src="images/construction clean up.png" alt="Construction Service" >
+              <h3>Construction Service</h3>
+            </div>
+              <div class="service-items">
+                <img src="images/floor-wax.jpeg" alt="waxing_floor-service" >
+                <h3>Floor waxing Service</h3>
+              </div>
+             </div>
+            </div>
+
+
+      </div>
     </div>
     <section id="contactUs">
-      <div class="containerOne">
+      <div class="containerOne" id="contactUs">
           <h3>Contact us</h3>
         <form action="contactform.php" method="post">
           <div class="form-group">
@@ -71,6 +93,6 @@
         </form>
       </div>
     </section>
- 
+
   </body>
 </html>
