@@ -83,6 +83,36 @@ section#contactUs {
   margin-top: 5px;
 }
 
+.cleaningone{
+  width: 380px;
+  height: 270px;
+  margin-top: 100px;
+  margin-left: 190px;
+  margin-right: 50px;
+  }
+  .cleaningtwo{
+   width: 380px;
+   height: 270px;
+  }
+  @media (max-width: 865px) {
+   .cleaningone {
+     margin-top: 15px;
+     margin-left: 5px;
+     margin-right: 5px;
+     height: 190px;
+     width: 200px;
+   }
+  }
+   @media (max-width: 865px) {
+     .cleaningtwo {
+       margin-top: 15px;
+       margin-left: 1px;
+       height: 190px;
+       width: 200px;
+     }
+   }
+  
+
 @media (max-width: 865px) {
   h3 {
     font-size: 30px;

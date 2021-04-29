@@ -30,19 +30,12 @@
     <div id="aboutus">
       <h3>Welcome to Belle's maids to perfection</h3>
       <h2>
-        we do residential and commerciwe do residential and commercial jobs from
-        offices to waxing floors even construction clean ups the construction
-        clean ups have 3 phases depending on what the customer wants.
-        Residential cleaning includes dusting,mopping,vacuuming,washing
-        surfaces, etc. Commercial cleaning we do anything from cleaning class a
-        facility’s to class c. We are license and insured. We do contract
-        cleaning on the commercial partal jobs from offices to waxing floors
-        even construction clean ups the construction clean ups have 3 phases
-        depending on what the customer wants. Residential cleaning includes
-        dusting,mopping,vacuuming,washing surfaces, etc. Commercial cleaning we
-        do anything from cleaning class a facility’s to class c. We are license
-        and insured. We do contract cleaning on the commercial part
+      With COVID 19 we offer disinfection sessions to your schedule
+
+Here at belles maids we focus on making your work environment as clean and fresh as possible.we have a variety of cleaning services here in North Carolina, from building maintenance,floor waxing,construction cleaning,and house cleaning. We are a licensed and insured company. Our employees are trained to satisfy the customers needs in a orderly fashion.
       </h2>
+      <img class="cleaningone" src="images/cleaning.jpg" alt="">
+       <img class="cleaningtwo" src="images/cleaningOne.jpeg" alt="">
     </div>
     <div id="services">
       <h3>Services</h3>
