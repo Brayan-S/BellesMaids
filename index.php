@@ -45,19 +45,23 @@ Here at belles maids we focus on making your work environment as clean and fresh
           <h3>Contact us</h3>
         <form action="contactform.php" method="post">
           <div class="form-group">
-            <label for="name">Full name</label>
+            <h4>Full name</h4>
+            <label for="name"></label>
             <input type="text" id="name" name="name" />
           </div>
           <div class="form-group">
-            <label for="number">Phone Number</label>
+            <h4>Phone Number</h4>
+            <label for="number"></label>
             <input type="text" id="number" name="number" />
           </div>
           <div class="form-group">
-            <label for="mail">Email</label>
+            <h4>Email</h4>
+            <label for="mail"></label>
             <input type="text" id="mail" name="mail" />
           </div>
           <div class="form-group">
-            <label for="message">message</label>
+            <h4>Message</h4>
+            <label for="message"></label>
             <textarea id="message" name="message" cols="30" rows="10"></textarea>
           </div>
           <button type="submit" name="submit">submit</button>
