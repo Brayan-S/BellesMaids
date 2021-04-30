@@ -44,15 +44,15 @@ Here at belles maids we focus on making your work environment as clean and fresh
           <img src="images/residential cleanig.jpg" alt="residential-service">
           <h3>Residential Service</h3>
         </div>
-          <div class="service-items">
+          <div class="service-items1">
             <img src="images/NicePng_cleaning-services-png_2243656.png" alt="residential-service" >
             <h3>commercial Service</h3>
           </div>
-            <div class="service-items">
+            <div class="service-items2">
               <img src="images/construction clean up.png" alt="Construction Service" >
               <h3>Construction Service</h3>
             </div>
-              <div class="service-items">
+              <div class="service-items3">
                 <img src="images/floor-wax.jpeg" alt="waxing_floor-service" >
                 <h3>Floor waxing Service</h3>
               </div>
