@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Tangerine">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <script src="https://kit.fontawesome.com/e18b383ed9.js" crossorigin="anonymous"></script>
   </head>
   <body>
    <nav>
