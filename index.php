@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Belle's Maids to perfection</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css"/>
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Tangerine">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
@@ -65,7 +65,7 @@ Here at belles maids we focus on making your work environment as clean and fresh
     <section id="contactUs">
       <div class="containerOne" id="contactUs">
           <h3>Contact us</h3>
-        <form action="contactform.php" method="post">
+        <form action="contactfrom.php" method="post">
           <div class="form-group">
             <h4>Full name</h4>
             <label for="name"></label>
@@ -86,7 +86,7 @@ Here at belles maids we focus on making your work environment as clean and fresh
             <label for="message"></label>
             <textarea id="message" name="message" cols="30" rows="10"></textarea>
           </div>
-          <button type="submit" name="submit">submit</button>
+          <button class="button" type="submit" id="submit" name="submit">submit</button>
         </form>
       </div>
     </section>

@@ -178,6 +178,8 @@ section#contactUs {
   }
   button{
     width: 100%;
+    height: 30px;
+    font-size: 25pxS;
   }
 
   @media(max-width: 865px){
@@ -185,11 +187,7 @@ section#contactUs {
       width: 70%;
       font-size: 10px;
     }
-<<<<<<< HEAD
-
-=======
    
->>>>>>> 9827666f47bcf83bc626710bc5766c4195d47657
   }
   @media (max-width: 865px) {
    .cleaningone {
