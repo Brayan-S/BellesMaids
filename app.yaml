@@ -2,7 +2,6 @@ runtime: php74 # Replace with php74 to use PHP 7.4
 
 handlers:
 # Serve a directory as a static resource.
-- url: stylesheet
   static_dir: stylesheet
 
 
