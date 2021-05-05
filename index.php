@@ -65,7 +65,7 @@ Here at belles maids we focus on making your work environment as clean and fresh
     <section id="contactUs">
       <div class="containerOne" id="contactUs">
           <h3>Contact us</h3>
-        <form action="contactform.php" method="post">
+        <form action="contactfrom.php" method="post">
           <div class="form-group">
             <h4>Full name</h4>
             <label for="name"></label>
