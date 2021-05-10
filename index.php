@@ -11,7 +11,7 @@
   </head>
   <body>
    <nav>
-     <img src="images/belle's-logo.png" alt="">
+     <img class="logo1"src="images/belle's-logo.png" alt="">
       <input type="checkbox" id="check" />
       <label for="check">
         <i class="fas fa-bars" id="btn"></i>
@@ -25,10 +25,10 @@
       </ul>
     </nav>
     <section>
-      <div class="container">Belle's Maids to Perfection</div>
+      <div class="container" >Belle's Maids to Perfection</div>
       <img class="container1" src="images/charlotte.jpg" alt="">
   </section>
-    <div id="aboutus">
+    <div class="aboutus1" id="aboutus">
       <h3>Welcome to Belle's Maids to Perfection</h3>
       <h2>Where our services are maids for you!</h2>
       <h2>
@@ -46,28 +46,38 @@ Our employees are trained to satisfy the customers needs in a orderly fashion.
     </div>
     <div class="services" id="services">
       <h3 class="title">Services</h3>
-      <h2 class="disciption">
-        <li>Residential: houses , we work with realtors.   </li>
-        <li>Commercial: buildings,schools, offices Church’s</li>
-        <li>Construction: New Construction house           </li>
-        <li>Floor Waxing: depending on what customer wants </li>
-      </h2>
       <div class="service1">
         <div class="service-items">
           <img src="images/residential cleanig.jpg" alt="residential-service">
           <h3>Residential Service</h3>
+          <h2 class="discription1">
+            <li>Residential: houses , we work with realtors.</li>
+
+          </h2>
         </div>
         <div class="service-items1">
           <img src="images/NicePng_cleaning-services-png_2243656.png" alt="residential-service" >
           <h3>Commercial Service</h3>
+          <h2 class="discription2">
+            <li>Commercial: buildings,schools, offices,Church’s</li>
+
+          </h2>
         </div>
         <div class="service-items2">
           <img src="images/construction clean up.png" alt="Construction Service" >
           <h3>Construction Service</h3>
+          <h2 class="discription3">
+            <li>Construction: New Construction house </li>
+
+          </h2>
         </div>
         <div class="service-items3">
           <img src="images/floor-wax.jpeg" alt="waxing_floor-service" >
           <h3>Floor waxing Service</h3>
+          <h2 class="disciption4">
+            <li>Floor Waxing: depending on what customer wants </li>
+
+          </h2>
         </div>
       </div>
     </div>
