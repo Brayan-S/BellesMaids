@@ -64,10 +64,10 @@ Here at belles maids we focus on making your work environment as clean and fresh
     </div>
     <section>
   <div class="container1">
-    <form action="https://formspree.io/f/xayaqrry" method="POST" id="my-form">
+    <form action="https://formspree.io/f/moqyeagq" method="POST" id="my-form">
 
       <div class="form-group">
-        <label for="firstName"> First Name</label>
+        <label for="firstName"> Fulll name</label>
         <input type="text" id="firstName" name="firstName">
       </div>
 
