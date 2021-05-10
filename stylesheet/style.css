@@ -171,20 +171,23 @@ h3{
 
 }
 
-#contactus {
+.contactus {
   background-color:#0d0d0d;
   width: 100%;
   height: auto;
   border: 1px;
 }
 
-.container1 {
+.containerBottom {
   width: 90%;
   max-width: 500px;
   margin: 0 auto;
   padding: 20px;
+  font-family: "Tangerine";
+  color:#e8a90e;
+  text-shadow: 2px 2px black;
   box-shadow: 0px 0px 20px #00000010;
-  background-color: white;
+  background-color: black;
   border-radius: 8px;
   margin-bottom: 20px;
 }

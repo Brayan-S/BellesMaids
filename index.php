@@ -81,8 +81,9 @@ Our employees are trained to satisfy the customers needs in a orderly fashion.
         </div>
       </div>
     </div>
-    <section>
-  <div class="container1">
+    <section class="contactus" >
+      <h3>Contact Us</h3>
+  <div class="containerBottom" id="contactUs">
     <form action="https://formspree.io/f/moqyeagq" method="POST" id="my-form">
 
       <div class="form-group">
