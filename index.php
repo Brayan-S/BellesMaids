@@ -81,37 +81,35 @@ Our employees are trained to satisfy the customers needs in a orderly fashion.
         </div>
       </div>
     </div>
-  </div>
-</div>
-<section id="contactUs">
-  <div class="containerOne" id="contactUs">
-    <h3>Contact us</h3>
-    <form action="contactform.php" method="post">
-      <form action="contactfrom.php" method="post">
-        <div class="form-group">
-          <h4>Full name</h4>
-          <label for="name"></label>
-          <input type="text" id="name" name="name" />
-        </div>
-        <div class="form-group">
-          <h4>Phone Number</h4>
-          <label for="number"></label>
-          <input type="text" id="number" name="number" />
-        </div>
-        <div class="form-group">
-          <h4>Email</h4>
-          <label for="mail"></label>
-          <input type="text" id="mail" name="mail" />
-        </div>
-        <div class="form-group">
-          <h4>Message</h4>
-          <label for="message"></label>
-          <textarea id="message" name="message" cols="30" rows="10"></textarea>
-        </div>
-        <button class="submit" type="submit" name="submit">submit</button>
-      </form>
-    </div>
-  </section>
+    <section>
+  <div class="container1">
+    <form action="https://formspree.io/f/moqyeagq" method="POST" id="my-form">
 
-</body>
+      <div class="form-group">
+        <label for="firstName"> Fulll name</label>
+        <input type="text" id="firstName" name="firstName">
+      </div>
+
+      <div class="form-group">
+        <label for="phoneNumber">phone number</label>
+        <input type="number" id="phoneNumber" name="phoneNumber">
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email">
+      </div>
+
+      <div class="form-group">
+        <label for="massage">Massage</label>
+        <textarea name="massage" id="massage" cols="30" rows="10"></textarea>
+      </div>
+
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+  <div id="status"></div>
+</section>
+<script src="main.js"></script>
+  </body>
 </html>
