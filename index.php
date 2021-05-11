@@ -30,7 +30,7 @@
   </section>
     <div class="aboutus1" id="aboutus">
       <h3>Welcome to Belle's Maids to Perfection</h3>
-      <h2>Where our services are maids for you!</h2>
+      <h2>Where our services are maid for you!</h2>
       <h2>
       Do to COVID 19 we offer disinfection sessions to your schedule
 
