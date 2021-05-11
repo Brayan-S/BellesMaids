@@ -32,7 +32,7 @@
       <h3>Welcome to Belle's Maids to Perfection</h3>
       <h2>Where our services are maid for you!</h2>
       <h2>
-      Do to COVID 19 we offer disinfection sessions to your schedule
+      Due to COVID 19 we offer disinfection sessions to your schedule
 
 Here at belles maids we focus on making your work environment as clean and fresh as possible.
 we have a variety of cleaning services here in North Carolina,
