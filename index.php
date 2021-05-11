@@ -47,6 +47,14 @@ Our employees are trained to satisfy the customers needs in a orderly fashion.
     <div class="services" id="services">
       <h3 class="title">Services</h3>
       <div class="service1">
+
+        <div class="service-covid">
+          <img src="images/COVID.jpeg" alt="COVID">
+          <h3>Disinfecting service</h3>
+          <h2 class="covid">
+            <li>COVID-19 Disinfecting Service.</li>
+          </div>
+
         <div class="service-items">
           <img src="images/residential cleanig.jpg" alt="residential-service">
           <h3>Residential Service</h3>

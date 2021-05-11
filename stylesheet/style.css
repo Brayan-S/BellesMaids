@@ -124,8 +124,13 @@ h2 {
   width: 50%;
   height: 50%;
   margin-top: 50px;
-
 }
+.service-covid img{
+  width: 50%;
+  height: 50%;
+  margin-top: 50px;
+}
+
 h3{
   font-family: "Tangerine";
   color:#e8a90e;
@@ -166,6 +171,14 @@ h3{
     margin-right: 5px;
     height: 300px;
     width: 300px;
+  }
+  .service-covid{
+    margin-top: 15px;
+    margin-left:  -50px;
+    margin-right: 5px;
+    height: 300px;
+    width: 300px
+
   }
 
 
