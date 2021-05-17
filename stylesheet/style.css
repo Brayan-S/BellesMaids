@@ -94,8 +94,8 @@ h2 {
 }
 .service1{
   display: grid;
-  margin-top: 50px;
-  padding-top: 80px;
+  margin-top: 30px;
+  padding-top: 30px;
   padding-right: 50px;
   padding-bottom: 50px;
   padding-left: 30px;
@@ -140,6 +140,8 @@ h3{
 @media (max-width: 865px) {
   .service1{
     display: block;
+    padding-top: 5px;
+    margin-top: 5px;
   }
 
 }
