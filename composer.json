@@ -1,11 +1,10 @@
 {
   "name":"bellesmaids/composer",
-  "description": "bellesmaids project",
+  "description": "bellesmaids project"
 
 "require": {
     "monolog/monolog": "2.0.*"
-},
-},
+}
   "autoload": {
     "files": []
   }
