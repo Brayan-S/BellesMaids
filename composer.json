@@ -1,0 +1,19 @@
+{
+  "name":"bellesmaids/composer",
+  "description": "bellesmaids project",
+  "authors": [
+    {
+      "name":"bellesmaids"
+      "email": "bellesmaidstoperfection@gmail.com"
+        }
+  ],
+  "require": {
+    "illuminate/support"; "^5.2"
+  },
+  "require-dev": {
+    "illuminate/container": "^5.2"
+  },
+  "autoload": {
+    "files": []
+  }
+}
